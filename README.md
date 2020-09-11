@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=jiji262&color=brightgreen)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=jiji262&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jiji262)
+
 <!--
 **jiji262/jiji262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
